@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">SSLpaymentIntegration</string>
+    
     <string name="action_settings">Settings</string>
+    <string name="label_request_payment">Request Payment</string>
+    <string name="hint_amount">Amount</string>
+    
+    <!-- SSLCommerz credentials -->
+    <string name="store_id">black5cc049a55094b</string>
+    <string name="store_password">black5cc049a55094b@ssl</string>
 </resources>
